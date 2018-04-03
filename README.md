@@ -5,7 +5,7 @@ Encrypt input using RSA
 
 [*RSAEncryptionSequence.java*](https://github.com/magarenzo/simple-rsa-encryption/blob/master/RSAEncryptionSequence.java) is a class in which the input is encrypted using a public key and is decrypted using a private key, as according to the RSA algorithm.
 
-[*RandomPrimeRSAEncryption.java*](https://github.com/magarenzo/simple-rsa-encryption/blob/master/RandomPrimeRSAEncryption.java) is another class that uses randomly generated prime numbers to encrypt the input. 
+[*RandomPrimesRSAEncryption.java*](https://github.com/magarenzo/simple-rsa-encryption/blob/master/RandomPrimesRSAEncryption.java) is another class that uses randomly generated prime numbers to encrypt the input. 
 
 ---
 
