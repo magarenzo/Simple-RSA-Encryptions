@@ -1,10 +1,9 @@
 import java.math.BigInteger;
 import java.security.SecureRandom;
 /**
- * RandomPrimesRSAEncryption (Assignment 10)
+ * RandomPrimesRSAEncryption
  * 
  * Michael Agarenzo
- * 03/28/2018
  */
 
 public class RandomPrimesRSAEncryption {
