@@ -1,9 +1,8 @@
 import java.math.BigInteger;
 /**
- * RSAEncryptionSequence (Assignment 8)
+ * RSAEncryptionSequence
  * 
  * Michael Agarenzo
- * 03/28/2018
  */
 
 public class RSAEncryptionSequence {
