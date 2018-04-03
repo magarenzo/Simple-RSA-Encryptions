@@ -9,10 +9,7 @@ Encrypt input using RSA
 
 <h3>Output:</h3>
 
-Alice encrypts: 30120
-Alice sends: 113535859035722866
-Bob computes: 116402471153538991
-Bob decrypts: 30120
+Alice encrypts: 30120<br>Alice sends: 113535859035722866<br>Bob computes: 116402471153538991<br>Bob decrypts: 30120
 
 ---
 
