@@ -1,4 +1,4 @@
-# SimpleRSAEncryptions
+# Simple RSA Encryptions
 
 Encrypt input using RSA
 
