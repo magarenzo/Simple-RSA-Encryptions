@@ -20,6 +20,6 @@ Encrypting: cat<br>Encrypted: 219612603106372657<br><br>Encrypting: bat<br>Encry
 
 ## Owner
 
-* Michael A. Agarenzo
+Michael A. Agarenzo
 
-* This was created as an assignment in CSC381 (Applied Cryptography).
+This was created as an assignment in CSC381 (Applied Cryptography)
