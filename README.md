@@ -40,6 +40,6 @@ Encrypted: 113324033011292054
 
 ## Owner
 
-[Michael A. Agarenzo](https://magarenzo.com)
+[Michael A.](https://linkedin.com/in/magarenzo)
 
 This was created as an assignment in CSC381 (Applied Cryptography)
